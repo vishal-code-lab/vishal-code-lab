@@ -19,15 +19,6 @@ My focus is on crafting **interactive, performance-optimized** applications that
 ⚡ **Fun Fact:** I can spend hours perfecting micro-interactions 😄  
 
 ---
-### 🛠️ Development Tools & Animations
-
-<p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50" alt="Git" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="50" height="50" alt="Postman" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" width="50" height="50" alt="Chrome DevTools" />
-</p>
 
 ## 💻 Tech Stack
 
