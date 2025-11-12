@@ -58,6 +58,12 @@ My focus is on crafting **interactive, performance-optimized** applications that
 
 ---
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## 🚀 Featured Projects
 
 ### 🎨 [Personal Portfolio Website](https://portfolio-one-wheat-25.vercel.app/)
